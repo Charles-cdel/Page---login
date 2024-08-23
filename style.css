@@ -1,0 +1,38 @@
+.body{
+    margin: 0%;
+
+}
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+   
+}
+.main{
+    display: flex;
+    align-items: center;
+    height: 80%;
+    width: 80%;
+    background-color:crimson
+}
+.direita{
+    justify-items: ;
+    width: 40%;
+}
+h1{
+    color: white;
+}
+p {
+    color: white;
+
+}
+button{
+    border: solid 2px white;
+    width: 150px;
+    height: 40px;
+    border-radius: 50px;
+    background-color: transparent;
+    color: white;
+    font-size: 15px;
+}
